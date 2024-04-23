@@ -7,7 +7,7 @@ repositorio para la clase
     <style>
 div {
  font-family: 'Courier New', Courier, monospace;
-color: aquamarine;
+ color: aquamarine;
  }
  </style>
 </head>
