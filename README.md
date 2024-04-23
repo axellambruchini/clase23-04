@@ -5,7 +5,7 @@ repositorio para la clase
 <html>
 <head>
     <style>
-div {
+h1 {
  font-family: 'Courier New', Courier, monospace;
  color: aquamarine;
  }
